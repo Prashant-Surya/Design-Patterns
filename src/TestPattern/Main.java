@@ -7,7 +7,7 @@ public class Main {
         savingAccount.doJob();
         System.out.println("-------------------------");
         CurrentAccount currentAccount = new CurrentAccount();
-        currentAccount.setDb(new IConnectDB1());
+        currentAccount.setDb(new IConnectWrapper(new IConnectDB1()));
         currentAccount.doJob();
     }
 }
