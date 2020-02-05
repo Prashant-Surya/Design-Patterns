@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public class IConnectDB1 implements IConnect {
     @Override

@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public class SavingAccount extends Account {
 

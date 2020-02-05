@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public interface IConnect {
     void connect();

@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public class IConnectWrapper implements DB {
     IConnect iConnect;

@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public class CurrentAccount extends Account {
 

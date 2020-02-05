@@ -1,4 +1,4 @@
-package TestPattern;
+package AdapterPattern;
 
 public class SQLServer implements DB {
     @Override
