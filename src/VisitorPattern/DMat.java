@@ -1,4 +1,4 @@
-package TestPattern;
+package VisitorPattern;
 
 public class DMat extends Account {
     @Override

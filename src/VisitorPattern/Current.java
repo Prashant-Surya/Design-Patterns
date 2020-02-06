@@ -1,4 +1,4 @@
-package TestPattern;
+package VisitorPattern;
 
 public class Current extends Account {
     @Override
