@@ -1,4 +1,4 @@
-package TestPattern;
+package FlyWeightPattern;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,6 +22,7 @@ public class Main {
         }
 
         System.out.println("Customers count: " + Customer.count);
+        System.out.println("NGR Count: " + NGR.count );
 
     }
 }
